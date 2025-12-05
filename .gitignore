@@ -1,0 +1,28 @@
+# System
+.DS_Store
+
+# Node
+node_modules/
+dist/
+build/
+.next/
+
+# Python
+*.pyc
+__pycache__/
+venv/
+.venv/
+env/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+backend/.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Agent
+.gemini/
