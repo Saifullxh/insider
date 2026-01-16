@@ -1,7 +1,3 @@
-![SnowSpace Demo](assets/demo.gif)
-
-[▶️ Watch full demo video](assets/cursorful-video-1768170820368.mp4)
-
 # Insider
 
 Insider is an AI-powered automated trading interface for Polymarket, designed to democratize access to sophisticated prediction market strategies. By integrating real-time news aggregation with advanced Large Language Model (LLM) analysis using Google's Gemini, Insider identifies high-probability trade opportunities based on unfolding global events.
